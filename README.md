@@ -1,15 +1,7 @@
 # GC2Net
 
-## Prerequisites
+The python code implementation of the paper "Guided Cycle Translation-Based Cross-Modal Collaborative Training Network for Hyperspectral-RGB Multimodal Change Detection" will be released.
 
-* Python == 3.7
+# Requirements
 
-## Usage
-
-#### Demo
-
-Run demo in
-
-```
-python demo_trento.py
-```Text encoder ：https://drive.google.com/file/d/1f7_1kNAk-Xw5gxyirLrfyRZZ_IfB1px-/view?usp=drive_link
+* Python == 3.7 Pytorch 1.7
